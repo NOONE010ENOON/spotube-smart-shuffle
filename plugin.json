@@ -5,5 +5,7 @@
   "description": "Intelligent shuffle that avoids consecutive tracks from the same artist.",
   "author": "NOONE010ENOON",
   "type": "metadata",
-  "main": "index.js"
+  "main": "index.js",
+  "homepage": "https://github.com/NOONE010ENOON/spotube-smart-shuffle",
+  "repository": "https://github.com/NOONE010ENOON/spotube-smart-shuffle.git"
 }

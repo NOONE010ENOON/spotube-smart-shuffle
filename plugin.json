@@ -1,0 +1,9 @@
+{
+  "id": "com.noone010enoon.smartshuffle",
+  "name": "Smart Shuffle",
+  "version": "1.0.0",
+  "description": "Intelligent shuffle that avoids consecutive tracks from the same artist.",
+  "author": "NOONE010ENOON",
+  "type": "metadata",
+  "main": "index.js"
+}
